@@ -20,10 +20,13 @@
 <img align="center" alt="Horse" height="34" width="50" src="https://github.com/HashLoad/horse/blob/master/img/horse.png?raw=true">
 <img align="center" alt="Firebird" height="50" width="50" src="https://firebirdsql.org/file/about/ds-firebird-logo.svg" />
 <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img align="center" alt="Ubuntu" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" />
 <img align="center" alt="Html" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
 <img align="center" alt="Css" height="50" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png">
-<img align="center" alt="Postgresql" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" />
 </div>
 
 ## 🧬 Linguagens mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-cezarg&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📊 Estatísticas
+<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-cezarg&theme=aura" alt="mystreak"/>
