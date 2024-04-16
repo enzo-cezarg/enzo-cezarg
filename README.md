@@ -25,8 +25,11 @@
 <img align="center" alt="Css" height="50" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png">
 </div>
 
-## 🧬 Linguagens mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-cezarg&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-cezarg&theme=aura" alt="mystreak"/>
+
 
 ## 📊 Estatísticas
-<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-cezarg&theme=aura" alt="mystreak"/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-cezarg&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
