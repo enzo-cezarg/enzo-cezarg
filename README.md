@@ -27,9 +27,3 @@
 
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-cezarg&theme=aura" alt="mystreak"/>
-
-
-## 📊 Estatísticas
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-cezarg&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
