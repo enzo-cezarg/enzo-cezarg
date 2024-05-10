@@ -1,7 +1,7 @@
 ## Olá, eu sou o Enzo! 👋
 ![](https://komarev.com/ghpvc/?username=enzo-cezarg&style=for-the-badge&color=9b70f0)
 
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzo-cezarg&show_icons=true&theme=aura)
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzo-cezarg&show_icons=true&theme=gruvbox)
 
 ### 🙋🏻‍♂️ Sobre mim
 - 👨🏻‍💻 Desenvolvedor de Software @ Infotapes Sistemas
@@ -26,4 +26,4 @@
 </div>
 
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-cezarg&theme=aura" alt="mystreak"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-cezarg&theme=gruvbox" alt="mystreak"/>
