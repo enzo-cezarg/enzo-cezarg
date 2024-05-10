@@ -1,5 +1,5 @@
 ## Olá, eu sou o Enzo! 👋
-![](https://komarev.com/ghpvc/?username=enzo-cezarg&style=for-the-badge&color=9b70f0)
+![](https://komarev.com/ghpvc/?username=enzo-cezarg&style=for-the-badge&color=cc9c2c)
 
 ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzo-cezarg&show_icons=true&theme=gruvbox)
 
