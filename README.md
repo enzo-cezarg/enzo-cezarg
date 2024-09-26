@@ -20,7 +20,7 @@
 <img align="center" alt="Python" height="60" width="60" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" />
 <img align="center" alt="Firebird" height="50" width="50" src="https://firebirdsql.org/file/about/ds-firebird-logo.svg" />
 <img align="center" alt="Horse" height="40" width="59" src="https://github.com/HashLoad/horse/blob/master/img/horse.png?raw=true">
-<img align="center" alt="Ubuntu" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" />
+<img align="center" alt="Linux" height="50" width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" />
 <img align="center" alt="Html" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
 <img align="center" alt="Css" height="50" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png">
 </div>
