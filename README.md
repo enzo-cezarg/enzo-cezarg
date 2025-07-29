@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Hfolpyq.png" alt="ilustração de um computador" min-width="400" max-width="400" width="400" align="right">
+<img src="https://i.imgur.com/Hfolpyq.png" alt="ilustração de um computador" min-width="350" max-width="350" width="350" align="right">
 
 
 ### Olá, eu me chamo Enzo! 👋
