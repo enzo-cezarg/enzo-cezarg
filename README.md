@@ -1,4 +1,3 @@
-<br>
 <img src="https://i.imgur.com/Hfolpyq.png" alt="ilustração de um computador" min-width="400" max-width="400" width="400" align="right">
 
 
@@ -42,7 +41,6 @@
   <a href = "mailto:enzoocezargarcia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<br>
 <hr>
 
 ### Experiência de trabalho
