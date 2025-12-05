@@ -10,9 +10,9 @@
   ### ⚒️ Minha Stack:
 <p align="left">
 
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-1C2D3F?style=for-the-badge&logo=react&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Object Pascal](https://img.shields.io/badge/Object%20Pascal-B22222?style=for-the-badge&logo=delphi&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,12 +23,12 @@
   ### 💼 Ferramentas: 
 <p align="left">
 
+  ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-  ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+  ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
@@ -52,7 +52,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Software Developer** \
 [**Infotapes Sistemas**](https://infotapes.com.br) • Estágio \
 Linguagens & Tecnologias: `Object Pascal`, `Flutter`, `Postman`, `Linux`\
-Principais Atividades: Desenvolvimento de software desktop; Desenvolvimento de API REST; Migração de banco de dados legado;
+Principais Atividades: Desenvolvimento de software desktop e mobile; Desenvolvimento de API REST; Migração de banco de dados legado;
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/enzo-cezarg/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Encontre-me no [LinkedIn](https://www.linkedin.com/in/enzo-cezarg/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
