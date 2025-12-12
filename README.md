@@ -2,7 +2,7 @@
   src="https://i.imgur.com/Hfolpyq.png"
   alt="ilustração de um computador"
   align="right"
-  width="400"
+  width="350"
 />
 
 
