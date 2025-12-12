@@ -1,3 +1,4 @@
+<!--
 <img
   src="https://i.imgur.com/Hfolpyq.png"
   alt="ilustração de um computador"
@@ -5,10 +6,6 @@
   width="350"
 />
 
-
-
-
-<!--
 ### Olá, eu me chamo Enzo! 👋
 <p align="left"> 
   E sou um Desenvolvedor Full-Stack, tendo como principais tecnologias Object Pascal e Flutter, mas tenho projetos pessoais e acadêmicos que utilizam HTML, CSS, ReactJS, TailwindCSS, NestJS, Python, entre outras linguagens.<br> Atualmente eu estou trabalhando como Desenvolvedor de Software e estudando Análise e Desenvolvimento de Sistemas na PUCRS.<br>
@@ -40,6 +37,7 @@
   ![Supabase](https://img.shields.io/badge/supabase-6DA55F?style=for-the-badge&logo=supabase&logoColor=white&color=3dbb84)
   ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+  
   ![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=000000) 
