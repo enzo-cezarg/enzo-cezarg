@@ -34,6 +34,7 @@
   ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-6DA55F?style=for-the-badge&logo=Render&logoColor=fff&color=000)
   ![Supabase](https://img.shields.io/badge/supabase-6DA55F?style=for-the-badge&logo=supabase&logoColor=white&color=3dbb84)
   ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
@@ -62,8 +63,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Software Developer** \
 [**Infotapes Sistemas**](https://infotapes.com.br) • Estágio \
-Linguagens & Tecnologias: `Object Pascal`, `Flutter`, `Postman`, `Linux`\
-Principais Atividades: Desenvolvimento de softwares desktop e mobile; Desenvolvimento de APIs REST; Migração de banco de dados legado;
+Linguagens & Tecnologias: `Object Pascal`, `Flutter`, `TypeScript`, `Postman`, `Linux`\
+Principais Atividades: Desenvolvimento de softwares desktop e mobile; Desenvolvimento de APIs REST; Integração entre front e back-end desenvolvidos; Migração de banco de dados legado;
 <br/>
 
 Encontre-me no [LinkedIn](https://www.linkedin.com/in/enzo-cezarg/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
