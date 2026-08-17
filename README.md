@@ -62,7 +62,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left"  width="83px" style="margin-right: 15; margin-left: 8" alt="Warpnet" src="https://i.imgur.com/dyGJRtp.png"/>](https://infotapes.com.br)
 
 **Software Developer** \
-[**Infotapes Sistemas**](https://infotapes.com.br) • Estágio \
+[**Infotapes Sistemas**](https://infotapes.com.br) • Tempo integral \
 Linguagens & Tecnologias: `Object Pascal`, `Flutter`, `TypeScript`, `Postman`, `Linux`\
 Principais Atividades: Desenvolvimento de softwares desktop e mobile; Desenvolvimento de APIs REST; Integração entre front e back-end desenvolvidos; Migração de banco de dados legado;
 <br/>
